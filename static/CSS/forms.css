@@ -1,0 +1,19 @@
+label{
+    font-size: large;
+    font-family: "fangsong";
+    color: #063dc8;
+
+
+    elevation: revert;
+    padding: inherit;
+}
+text{
+    color: #4293da;
+}
+form{
+    background-color: grey;
+
+}
+fname{
+    color: grey;
+}
